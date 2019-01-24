@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.latitude.service.impl.StockPriceServiceImplTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-01-24T10:36:28" hostname="Ankitas-MBP" time="0.011">
+  <properties/>
+  <testcase name="shouldNotReturnMaxProfitWhenStockPricesProvidedAreLessThan2Two" classname="com.latitude.service.impl.StockPriceServiceImplTest" time="0.004"/>
+  <testcase name="shouldReturnMaxProfit" classname="com.latitude.service.impl.StockPriceServiceImplTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
